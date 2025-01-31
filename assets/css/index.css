@@ -49,7 +49,7 @@ header {
     font-size: xx-large;
 }
 .hero {
-    background-image: url(/maxco-boutique/assets/imgs/wall/cloths.jpg);
+    background-image: url(/assets/imgs/wall/cloths.jpg);
     width: 100%;
     height: 100%;
     background-size: cover;
