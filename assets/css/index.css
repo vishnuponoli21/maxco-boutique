@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Znamenny+Musical+Notation&display=swap');
+
+.borel-regular {
+    font-family: "Borel", serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 50px;
+    line-height: 0;
+  }
+
+body {
+   background-image: url();
+   background-size:cover;
+}
+
+header {
+    color: #333;
+    background-color: #7b78780f;
+    backdrop-filter: blur(5px);
+    text-decoration: underline;
+}
+
+.logo img{
+    height: 100px;
+}
+
+.main-head {
+    display: flex ;
+    align-items: center;
+    justify-content: center !important;
+    text-align: center;
+}
+
+.log {
+    display: flex ;
+    justify-content: end ;
+    text-align: center ;
+    align-items: end;
+}
+
+.section-wrapper{
+    margin-top: 100px;
+    padding: 50px;
+    position: relative;
+}
+.section-wrapper h4{
+    margin-bottom: 50px;
+    font-weight: 500;
+    font-size: xx-large;
+}
+.hero {
+    background-image: url(/maxco-boutique/assets/imgs/wall/cloths.jpg);
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+.clasi {
+ width: 100%;
+ height: 90vh;
+ color: white;
+ text-decoration: underline;
+ font-size: xx-large;
+ padding: 30px;
+ backdrop-filter: blur(2px);
+}
+.clasi button {
+    width: 150px;
+    background-color: #5b5353a6;
+    backdrop-filter: blur(2px);
+    font-size: xx-large;
+}
+.cards {
+    display: flex;
+}
+.cards .card {
+    margin-left: 40px !important;  
+}
+.cards .card img {
+    height: 300px !important;
+}
+.cards .card a{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #333;
+    border: #a19e9ed8;
+}
+
+.catogoies {
+    background-color: #333;
+}
